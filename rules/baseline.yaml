@@ -1,0 +1,10 @@
+severity_weights:
+  CRITICAL: 1.0
+  HIGH: 0.8
+  MEDIUM: 0.55
+  LOW: 0.3
+  INFO: 0.05
+controls:
+  - CIS Linux Benchmark
+  - NIST SP 800-53
+  - MITRE ATT&CK

@@ -1,0 +1,4 @@
+target: localhost
+output_format: terminal
+asset_criticality: 0.5
+include_info: true

@@ -1,0 +1,1 @@
+{"name":"secure-host","ssh":{"PermitRootLogin":"no"},"world_readable_sensitive_files":[],"privileged_users":["root"]}
